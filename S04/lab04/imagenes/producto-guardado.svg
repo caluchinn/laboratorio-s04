@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f0fdf4"/><circle cx="480" cy="205" r="90" fill="#22c55e"/><path d="M435 205l30 30 62-70" fill="none" stroke="white" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="480" y="345" text-anchor="middle" font-family="Arial" font-size="38" font-weight="bold" fill="#14532d">Producto registrado</text><text x="480" y="395" text-anchor="middle" font-family="Arial" font-size="24" fill="#166534">TEC-001 se guardó correctamente</text>
+</svg>

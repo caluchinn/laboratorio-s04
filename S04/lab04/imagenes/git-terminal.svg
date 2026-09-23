@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#0f172a"/><rect x="70" y="60" width="820" height="420" rx="18" fill="#111827" stroke="#334155" stroke-width="4"/>
+  <circle cx="105" cy="92" r="9" fill="#ef4444"/><circle cx="133" cy="92" r="9" fill="#f59e0b"/><circle cx="161" cy="92" r="9" fill="#22c55e"/>
+  <text x="105" y="160" font-family="monospace" font-size="28" fill="#e2e8f0">$ git --version</text><text x="105" y="205" font-family="monospace" font-size="28" fill="#86efac">git version 2.51.1</text>
+  <text x="105" y="270" font-family="monospace" font-size="28" fill="#e2e8f0">$ git status</text><text x="105" y="315" font-family="monospace" font-size="28" fill="#93c5fd">On branch main</text>
+  <text x="105" y="360" font-family="monospace" font-size="28" fill="#e2e8f0">nothing to commit, working tree clean</text>
+</svg>

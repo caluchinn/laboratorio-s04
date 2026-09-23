@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#e0f2fe"/><rect x="90" y="65" width="780" height="410" rx="18" fill="#0f172a"/>
+  <text x="130" y="125" font-family="monospace" font-size="30" fill="#38bdf8">GESTOR DE TAREAS CLI</text>
+  <text x="130" y="190" font-family="monospace" font-size="24" fill="#e2e8f0">1. Agregar tarea</text><text x="130" y="235" font-family="monospace" font-size="24" fill="#e2e8f0">2. Listar tareas</text><text x="130" y="280" font-family="monospace" font-size="24" fill="#e2e8f0">3. Completar tarea</text>
+  <text x="130" y="350" font-family="monospace" font-size="24" fill="#86efac">[1] Terminar laboratorio - ALTA</text><text x="130" y="395" font-family="monospace" font-size="24" fill="#f8fafc">Seleccione una opción: _</text>
+</svg>
